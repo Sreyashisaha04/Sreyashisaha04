@@ -35,7 +35,10 @@ machine language and AI,</h3>
   <img src="https://img.icons8.com/color/46/pandas.png" alt="Pandas" title="Pandas"/>
   <img src="https://img.icons8.com/color/46/numpy.png" alt="NumPy" title="NumPy"/>
   <img src="https://img.icons8.com/color/46/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/46/seaborn.png" alt="Seaborn" title="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" title="Seaborn" width="70"/>
+
+
+
   
   <!-- Development Tools -->
   <img src="https://img.icons8.com/ios-filled/46/github.png" alt="GitHub" title="GitHub"/>
